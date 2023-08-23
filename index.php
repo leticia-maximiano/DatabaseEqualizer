@@ -1,3 +1,8 @@
+<?php
+require "Conector.php";
+$conector = new Conector();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
